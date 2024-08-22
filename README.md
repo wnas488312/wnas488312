@@ -1,4 +1,10 @@
-## Hi there 👋
+## 👋 Hi, I'm Wiktor!
+
+### About Me
+I'm a passionate software developer with over 5 years of experience specializing in backend development. Throughout my career, I've had the opportunity to work in the automotive industry, collaborating with one of the largest car manufacturers in Europe. My work primarily focuses on building backend systems that power complex applications.
+
+### 🛠️ Personal Projects
+In my free time, I love creating simple yet useful applications. Whether it's a small tool to automate a tedious task or a web app to solve a common problem, I enjoy turning ideas into reality through code. Check out my repositories to see some of the projects I've been working on!
 
 <!--
 **wnas488312/wnas488312** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
